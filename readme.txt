@@ -1,7 +1,7 @@
 === E-Commerce by SalesCart ===
 Contributors: salescart
 Tags: salescart, shopping cart,ecommerce,wordpress ecommerce,wp e-commerce,paypal,payments,credit card,e-commerce,online store,store,shop,cart,online shop,shopping,digital goods,downloadable products,product catalog,ecomerce,products,facebook,f-commerce,pinterest,p-commerce
-Tested up to: 4.1
+Tested up to: 4.2.1
 Requires at least: 2.8
 Stable tag: trunk
 License: GPLv2, URI: http://www.gnu.org/licenses/gpl-2.0.html
